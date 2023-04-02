@@ -13,4 +13,3 @@
 ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Snake animation](https://github.com/Matheusvic112/Matheusvic112/blob/output/github-contribution-grid-snake.svg)
