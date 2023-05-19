@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-vicente-47507a233/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusvic112&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
