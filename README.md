@@ -24,7 +24,7 @@
 
 ---
 
-### 🕵️ Scraping & Data Engineering
+### 🕵️ Scraping
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-181717?style=flat&logo=python&logoColor=white)
