@@ -33,7 +33,3 @@
 ![PycURL](https://img.shields.io/badge/PycURL-FF6F00?style=flat&logo=python&logoColor=white)
 ![Proxy](https://img.shields.io/badge/Proxy-000000?style=flat&logo=torproject&logoColor=white)
 
-### 📈 Estatísticas do GitHub
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Matheusvic112&theme=tokyonight" alt="GitHub Streak"/>
-</p>
